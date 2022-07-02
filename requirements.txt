@@ -1,0 +1,8 @@
+IPy
+rtsp
+flask
+pillow
+requests
+wxpusher
+pycryptodome
+opencv_python
